@@ -1,0 +1,95 @@
+body {
+  text-align: center;
+  background-color: #f4eeed;
+}
+
+hr {
+  background-color: #d7fbe8;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  width: 5%;
+  height: 0;
+}
+
+h1 {
+  color: #e84545;
+}
+
+p {
+  color: #903749;
+  line-height: 2;
+}
+
+/*****************selectors******************/
+.vaca-div {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+  padding-bottom: 200px;
+}
+
+.vaca-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+
+.pollo-div {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+  padding-bottom: 200px;
+}
+
+.pollo-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.pescado-div {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+  padding-bottom: 200px;
+}
+
+.pescado-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.hueso-div {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+  padding-bottom: 200px;
+}
+
+.hueso-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.carne-div {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+  padding-bottom: 200px;
+}
+
+.carne-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
